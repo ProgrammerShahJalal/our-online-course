@@ -1,0 +1,9 @@
+.contact-icon{
+    width: 75px;
+    cursor: pointer;
+}
+.contact input{
+    outline: none;
+    padding: 10px 103px;
+    margin: 10px auto;
+}

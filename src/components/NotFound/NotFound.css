@@ -1,0 +1,25 @@
+.image{
+    width: 475px;
+    height: auto;
+}
+.title{
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: -150px;
+}
+.back-to-home{
+    text-align: center;
+}
+.back-btn{
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 17px 45px;
+    border-radius: 10px 55px 10px 55px;
+    background-color: darkblue;
+}
+.back-btn:hover{
+    background-color: #9841EF;
+}
